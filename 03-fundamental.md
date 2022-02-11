@@ -1,4 +1,4 @@
-# 03: System design objectives: How to improve performance
+# 03: System design objective I: How to improve performance
 
 ## 3 design objectives of high concurrency systems
 
